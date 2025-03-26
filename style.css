@@ -1,0 +1,23 @@
+body{
+    background-color: palegoldenrod;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#list{
+    font-style: italic;
+    font-weight: bold;
+    border: 1px solid gray;
+    padding: 5px;
+    width: 400px;
+}
+
+.history{
+    font-family: fantasy;
+    margin: 5px;
+}
+
+img{
+    width: 400px;
+}
